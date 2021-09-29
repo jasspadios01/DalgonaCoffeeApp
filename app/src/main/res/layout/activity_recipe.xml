@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Recipe">
+
+
+    <TextView
+        android:id="@+id/txtTitle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/txtTitle"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/txtIngredients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtIngredients"
+        android:layout_marginTop="20dp"
+        android:textSize="26sp"/>
+
+    <TextView
+        android:id="@+id/txtItem1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtItem1"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtItem2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtItem2"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtItem3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtItem3"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtItem4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtItem4"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtDirection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDirections"
+        android:layout_marginTop="20dp"
+        android:textSize="26sp"/>
+
+    <TextView
+        android:id="@+id/txtContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtContent"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dalgona Coffee Recipe</string>
+    <string name="txtTitle">Dalgona Coffee Recipe</string>
+    <string name="description">Recipe Image</string>
+    <string name="btnRecipe">View Recipe</string>
+    <string name="txtIngredients">Ingredients</string>
+    <string name="txtItem1">2 tablespoons boiling water</string>
+    <string name="txtItem2">2 tablespoons instant coffee</string>
+    <string name="txtItem3">2 tablespoons white sugar</string>
+    <string name="txtItem4">1 cup whole milk</string>
+    <string name="txtDirections">Directions</string>
+    <string name="txtContent">Whisk boiling water, instant coffee, and sugar together until coffee is dissolved. Continue to whisk until mixture becomes thick and forms a peak, 2 to 3 minutes. Pour milk into a glass. Pour the frothy coffee on top of the milk.</string>
+</resources>
